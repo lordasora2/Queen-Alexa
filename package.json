@@ -1,7 +1,7 @@
 {
-  "name": "Queen-Alexa",
+  "name": "Arthur-Leywin",
   "version": "1.0.0",
-  "description": "Queen-Alexa",
+  "description": "Arthur-Leywin",
   "main": "run.js",
   "directories": {
     "lib": "lib"
@@ -53,8 +53,8 @@
   "keywords": [
     "self bot wa"
   ],
-  "author": "Queen-Alexa",
+  "author": "Arthur-Leywin",
   "license": "ISC",
   "bugs": {},
-  "homepage": "https://github.com/HYPER-MOD"
+  "homepage": "https://github.com/lordasora2"
 }
